@@ -1,6 +1,6 @@
 # MyHTML
 MyHTML Website code
-"<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <title>Page Title</title>
@@ -124,6 +124,6 @@ body {
 <li>Tryit: HTML style element</li>
 </ul>
 </div>
--->"
+-->
 
 
